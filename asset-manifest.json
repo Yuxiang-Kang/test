@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/theApp/static/css/main.2ed3bd80.css",
+    "main.js": "/theApp/static/js/main.d6731c9e.js",
+    "static/js/415.4d6acbeb.chunk.js": "/theApp/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/theApp/static/js/787.1ed0c42c.chunk.js",
+    "static/media/car-1.png": "/theApp/static/media/car-1.690eaa7f57f3dce18c2f.png",
+    "static/media/Me.png": "/theApp/static/media/Me.3c91db45417e6f7a6c21.png",
+    "static/media/home-projects.png": "/theApp/static/media/home-projects.8a937b0e3e603dfa2139.png",
+    "static/media/fish-1.png": "/theApp/static/media/fish-1.a74081a70d8bf38f5956.png",
+    "static/media/Plugging-3.png": "/theApp/static/media/Plugging-3.b9414117c1ce1970fc13.png",
+    "static/media/leaf.png": "/theApp/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/theApp/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/theApp/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/comsol-Logo.png": "/theApp/static/media/comsol-Logo.744a3404ab2d00e784cb.png",
+    "static/media/codeEditor.png": "/theApp/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/matlab-Logo.png": "/theApp/static/media/matlab-Logo.4cedb75e449b80622c9d.png",
+    "static/media/Resume - Yuxiang Kang-4.pdf": "/theApp/static/media/Resume - Yuxiang Kang-4.d5b2d9de0f5bceacea0f.pdf",
+    "static/media/Autocad-Logo.png": "/theApp/static/media/Autocad-Logo.59056a9b320801709317.png",
+    "static/media/blog.png": "/theApp/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/ANSYS-Logo.png": "/theApp/static/media/ANSYS-Logo.eeafadb88add4fa75333.png",
+    "static/media/abaqus-Logo.png": "/theApp/static/media/abaqus-Logo.a2a295cbf300f456d90a.png",
+    "static/media/SolidWorks-Logo.png": "/theApp/static/media/SolidWorks-Logo.5a0c140dc4e299ca7638.png",
+    "static/media/chatify.png": "/theApp/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/CREO-Logo.png": "/theApp/static/media/CREO-Logo.964dc79ba779bba19d18.png",
+    "static/media/CATIA-Logo.png": "/theApp/static/media/CATIA-Logo.1f3f20249356675d30a8.png",
+    "static/media/home-bg.jpg": "/theApp/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/theApp/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/theApp/index.html",
+    "main.2ed3bd80.css.map": "/theApp/static/css/main.2ed3bd80.css.map",
+    "main.d6731c9e.js.map": "/theApp/static/js/main.d6731c9e.js.map",
+    "415.4d6acbeb.chunk.js.map": "/theApp/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/theApp/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ed3bd80.css",
+    "static/js/main.d6731c9e.js"
+  ]
+}
